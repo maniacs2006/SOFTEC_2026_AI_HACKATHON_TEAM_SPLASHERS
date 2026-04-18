@@ -1,0 +1,6 @@
+{
+  "name": "Opportunity Inbox Copilot",
+  "description": "An AI-powered dashboard that connects to Gmail via OAuth to fetch unread emails. It runs them through a Gemini 1.5 Flash structured data extraction schema, filters out non-opportunity spam, and algorithmically sorts internships, scholarships, and hackathons based on deterministic variables supplied in the user's Profile Configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
